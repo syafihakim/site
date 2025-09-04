@@ -26,7 +26,7 @@ paymentSection = `
 
         <!-- Payment details -->
         <div id="qr" class="payment-content">
-          <img src="/assets/images/maybank_qr.jpg" alt="QR Code" 
+          <img src="maybank_qr.jpg" alt="QR Code" 
                class="mx-auto max-w-full max-h-64 rounded-lg shadow-md object-contain" />
           <div class="text-center mt-2">
             <div class="mt-2 flex items-center justify-center space-x-2 text-sm text-gray-700 cursor-pointer hover:text-gray-900">
@@ -49,7 +49,7 @@ paymentSection = `
         </div>
 
         <div id="tng" class="payment-content hidden">
-          <img src="/assets/images/tng.jpg" alt="Touch 'n Go QR Code" 
+          <img src="tng.jpg" alt="Touch 'n Go QR Code" 
                class="mx-auto max-w-full rounded-lg shadow-md object-contain" />
           <div class="text-center mt-2">
             <div class="mt-2 flex items-center justify-center space-x-2 text-sm text-gray-700 cursor-pointer hover:text-gray-900">
